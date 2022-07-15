@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Albrecht Roland
+  subtitle: Trompete
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
@@ -19,4 +19,3 @@ optional info list (delete if not using):
 - Date: 
 - Client: 
 - Category: 
-
