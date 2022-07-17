@@ -41,7 +41,7 @@ en: &DEFAULT_EN
     title: "Band"
     text: ""
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"

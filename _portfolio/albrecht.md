@@ -2,20 +2,18 @@
 caption: #what displays in the portfolio grid:
   title: Albrecht Roland
   subtitle: Trompete
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/albrecht_roland.png
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Albrecht Roland
+subtitle: Trompete
+image: assets/img/portfolio/albrecht_roland.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+Roli ist seit 2019 bei uns und spielt Trompete.
 
-optional info list (delete if not using):
+Er ist aktiver Fasnächtler bei der Guggenmusig Loschtmölch Kriens.
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+Seine Stärken: Cooles Trompetenspiel. Top Ergänzung zu Michi. <br>
+Seine Schwächen: Lernen wir wohl erst noch kennen. Hatte einen Bart.
