@@ -15,5 +15,5 @@ Roli ist seit 2019 bei uns und spielt Trompete.
 
 Er ist aktiver Fasnächtler bei der Guggenmusig Loschtmölch Kriens.
 
-Seine Stärken: Cooles Trompetenspiel. Top Ergänzung zu Michi. <br>
-Seine Schwächen: Lernen wir wohl erst noch kennen. Hatte einen Bart.
+**Seine Stärken:** Cooles Trompetenspiel. Top Ergänzung zu Michi. <br>
+**Seine Schwächen:** Lernen wir wohl erst noch kennen. Hatte einen Bart.
